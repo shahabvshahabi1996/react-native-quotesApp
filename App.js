@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
   },
   stretch : {
     resizeMode : 'cover' , 
-    flex : 7,
+    flex : 6,
     width : window.width,
     height : window.height
   },
@@ -118,7 +118,8 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     backgroundColor: "#252525",
     alignItems:"center",
-    paddingRight: 5
+    paddingRight: 5,
+    paddingVertical : 20
   },
   hearder : {
     fontSize : 35 , 
