@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Quotes",
+    "slug": "my-quotes",
+    "sdkVersion": "20.0.0",
+    "privacy": "public",
+    "orientation" : "portrait",
+    "icon" : "./img/icon.png",
+    "loading" : {
+      "icon" :"./img/icon.png",
+      "backgroundColor" : "#aaa"
+    },
+    "ios": {
+      "bundleIdentifier": "com.shahabCO.quotes"
+    },
+    "android": {
+      "package": "com.shahabCO.quotes"
+    }
+  }
+}
